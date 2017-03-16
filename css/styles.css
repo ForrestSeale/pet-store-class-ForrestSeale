@@ -31,6 +31,10 @@ p {
   margin-top: 20px;
 }
 
+#logo-style:hover {
+  opacity: .5;
+}
+
 /*NAV*/
 
 nav {
